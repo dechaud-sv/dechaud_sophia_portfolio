@@ -1,8 +1,8 @@
 // Sophia DeChaud
 // CSCE306, Spring 2022
-// Graphing.h
+// RandomNum.h
 
-// Header file for Graphing class for my portfolio project (Data scanner/analyzer)
+// Header file for RandomNum class for my portfolio project (Data scanner/analyzer)
 
 #include <string>
 #include <vector>
@@ -14,7 +14,7 @@ using namespace std;
 #define DECHAUD_SOPHIA_PORTFOLIO_GRAPHING_H
 
 
-class Graphing {
+class RandomNum {
 
 };
 
