@@ -3,4 +3,4 @@ project(dechaud_sophia_portfolio)
 
 set(CMAKE_CXX_STANDARD 14)
 
-add_executable(dechaud_sophia_portfolio main.cpp Stats.cpp Stats.h RandomNum.cpp RandomNum.h)
+add_executable(dechaud_sophia_portfolio main.cpp Stats.cpp Stats.h LottoGame.cpp LottoGame.h)
